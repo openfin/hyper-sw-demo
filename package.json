@@ -1,0 +1,17 @@
+{
+  "name": "HyperSWDemo",
+  "version": "1.0.1",
+  "description": "A demonstration app showing OpenFin Hyperblotter working offline via Service Workers.",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/openfin/hyper-sw-demo"
+  },
+  "private": true,
+  "scripts": {
+    "start": "http-server -c-1"
+  },
+  "devDependencies": {
+    "http-server": "0.8.5",
+    "openfin-launcher": "^0.2.0"
+  }
+}
