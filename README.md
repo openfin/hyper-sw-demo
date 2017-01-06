@@ -18,3 +18,7 @@ $ npm install
 $ npm start
 $ openfin -l app.json
 ```
+
+## Notes
+#### What about chrome://serviceworker-internals?
+Unfortunately, this won't currently work in OpenFin 6.x  However, you can still access and manage ServiceWorks from the Chrome Dev Tools.
